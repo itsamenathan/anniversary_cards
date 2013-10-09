@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="rules.svg">
+   sodipodi:docname="rules.svg"
+   inkscape:export-filename="/home/jimshoe/dev/anniversary_cards/rules.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="236.468"
-     inkscape:cy="677.94537"
+     inkscape:cy="678.30251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -206,22 +209,22 @@
          id="tspan3097" /><tspan
          sodipodi:role="line"
          x="168.02658"
-         y="273.91251"
+         y="273.91254"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:-1.5px;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
          id="tspan3103">Players receive a new card every year.</tspan><tspan
          sodipodi:role="line"
          x="168.02658"
-         y="286.91251"
+         y="286.91254"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:-1.5px;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
-         id="tspan3111">Collect all 53 cards for great surprise.</tspan><tspan
+         id="tspan3111">Collect all 53 cards for grand surprise.</tspan><tspan
          sodipodi:role="line"
          x="168.02658"
-         y="299.91251"
+         y="299.91254"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-1.5px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3099" /><tspan
          sodipodi:role="line"
          x="168.02658"
-         y="312.91251"
+         y="312.91254"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-1.5px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3095" /></text>
     <flowRoot
