@@ -38,7 +38,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="438.05542"
-     inkscape:cy="678.30251"
+     inkscape:cy="678.65965"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,10 @@
        xml:space="preserve"
        id="flowRoot3755"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DilleniaUPC;-inkscape-font-specification:DilleniaUPC Bold"
-       transform="translate(-151.47102,-12.142867)"><flowRegion
+       transform="translate(-151.47102,-12.142867)"
+       inkscape:export-filename="/home/jimshoe/dev/anniversary_cards/flowRoot3062.png"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000"><flowRegion
          id="flowRegion3757"><rect
            id="rect3759"
            width="248.57143"
@@ -106,7 +109,10 @@
        y="280.69183"
        id="text3006"
        sodipodi:linespacing="100%"
-       transform="scale(0.91104144,1.0976449)"><tspan
+       transform="scale(0.91104144,1.0976449)"
+       inkscape:export-filename="/home/jimshoe/dev/anniversary_cards/flowRoot3062.png"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000"><tspan
          sodipodi:role="line"
          x="209.14557"
          y="280.69183"
@@ -148,7 +154,7 @@
          y="364.69183"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;writing-mode:lr-tb;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
          id="tspan3219"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">7.  Laugh Together</tspan><tspan
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">7.  Laugh together</tspan><tspan
          sodipodi:role="line"
          x="209.14557"
          y="378.69183"
@@ -189,7 +195,9 @@
        xml:space="preserve"
        id="flowRoot3062"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-108.36523,35.714279)"><flowRegion
+       transform="translate(-108.36523,35.714279)"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000"><flowRegion
          id="flowRegion3064"><rect
            id="rect3066"
            width="152.85713"
@@ -205,7 +213,10 @@
        x="168.02658"
        y="248.36281"
        id="text3091"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/jimshoe/dev/anniversary_cards/flowRoot3062.png"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000"><tspan
          sodipodi:role="line"
          id="tspan3093"
          x="168.02658"
